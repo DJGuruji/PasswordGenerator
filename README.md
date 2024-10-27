@@ -1,7 +1,7 @@
 # Password Generator
 
 
-<img src="https://github.com/DJGuruji/PasswordGenerator/blob/main/src/assets/img1.jpeg?raw=true" alt="Bookmark" width="800" height="500">
+<img src="https://github.com/DJGuruji/PasswordGenerator/blob/main/src/assets/img1.jpeg?raw=true" alt="Bookmark" width="600" height="500">
 
 
 
