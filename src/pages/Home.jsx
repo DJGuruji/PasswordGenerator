@@ -41,8 +41,10 @@ const Home = () => {
             navigator.clipboard.writeText(password);
             setCopied(true);
         }
+
     };
   
+
     return (
         <div className="flex bg-black flex-col items-center justify-center min-h-screen bg-gray-100">
             <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md ">
